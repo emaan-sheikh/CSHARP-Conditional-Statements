@@ -1,3 +1,10 @@
+Console.WriteLine("Student Name: Emaan Sheikh");
+Console.WriteLine("Student ID: 66465");
+Console.WriteLine("Course ID: 120703");
+Console.WriteLine("Submission date: 28th Oct 2026");
+
+
+
 Console.WriteLine("Enter purchase amount: ");
 /*amount input*/
 double amount= Double.Parse(Console.ReadLine());
