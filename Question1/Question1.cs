@@ -42,3 +42,4 @@ switch (day)
     Console.WriteLine("Invalid number");
     break;
 }
+/*program ends*/
