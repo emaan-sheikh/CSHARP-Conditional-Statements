@@ -1,7 +1,7 @@
 Console.WriteLine("Name: Emaan Sheikh");
 Console.WriteLine("Student ID: 66465");
 Console.WriteLine("Class ID: 120703");
-Console.WriteLine("Submission date: 27th Oct 2026");
+Console.WriteLine("Submission date: 28th Oct 2026");
 /*declaring variable*/
 int day;
 Console.WriteLine("Enter a number (1-7) to check the day: ");
